@@ -1,10 +1,10 @@
 # Vortex-Drainer-The-multichain-e-skimmer-cryptos-drainer
 
-Crypto exchange source code
+Vortex Crypto exchange drainer
 
 Functions:
 
-➡️ User's personal account
+ ➡️ User's personal account
  ➡️ More than 100+ popular and not so popular cryptocurrencies
  ➡️ KYC verification
  ➡️ Profile management
@@ -31,7 +31,7 @@ Administration system:
  • Setting up user actions in telegrams
  • Management of withdrawals from deposits
  ➡️ Manage exchange settings
-➡️ Commission amount for deposits, withdrawals, trading operations
+ ➡️ Commission amount for deposits, withdrawals, trading operations
  ➡️ Detailed documentation for users, developers and system administrators
  ➡️ Editing all user order histories, you can change any information
  ➡️ The Ultimate Scam & Phish Crypto Exchange
@@ -43,3 +43,6 @@ Administration system:
  ➡️ Edit any users balance to any amount (Fake balance in their wallet)
  ➡️ Choose any brand name for your Exchange to match your registered domain
  ➡️ Create a team of workers, assign each a promo code and split percents %
+
+ t.me/vortexdraineroff
+ praiukiu@proton.me
